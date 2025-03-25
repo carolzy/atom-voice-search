@@ -1,6 +1,7 @@
-# Atom.ai Voice Search Application
+# Atom.ai - Find your killer customers
 
-This folder contains the organized essential files for the Atom.ai voice search application, a daily company research assistant that provides deep insights for startup founders, B2B professionals, VCs and beyond. 
+This folder contains the organized essential files for the Atom.ai voice search application, finally the app built for startup founders finding your killer customers, achieving your product market fit! 
+
 
 ## Core Files
 
